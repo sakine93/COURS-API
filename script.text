@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"aksi":"getbijouxinfostock", "codeacces":"votre_code_acces"}' https://sifagroup.sn/server_apiislam1/testapp.php
